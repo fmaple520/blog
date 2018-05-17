@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel-blog
+                    Laravel-fmaple-blog
                 </div>
 
                 <div class="links">
